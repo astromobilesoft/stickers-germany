@@ -2,7 +2,7 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.germany",
    "ios_app_store_link":"",
    "sticker_packs":[
-   	  {
+      {
          "identifier":"flags",
          "name":"Flags",
          "publisher":"Astro Mobile",
@@ -89,7 +89,7 @@
             }
          ]
       },
-   	  {
+      {
          "identifier":"bayerna2021",
          "name":"Bayern Munich",
          "publisher":"Astro Mobile",
